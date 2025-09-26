@@ -165,10 +165,21 @@ def update_strength_indicator(self, password):
 Passionate about Python development and desktop applications.  
 This tool was built quickly as part of a university assignment, yet with full functionality and design awareness.
 
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:Iqra37277@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://IqraMajeed-Dev.github.io/portfolio/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/IqraMajeed-Dev)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/IqraMajeed-Dev)  
+<p align="center">
+  <a href="mailto:Iqra37277@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red">
+  </a>
+  <a href="https://IqraMajeed-Dev.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue">
+  </a>
+  <a href="https://linkedin.com/in/IqraMajeed-Dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue">
+  </a>
+  <a href="https://github.com/IqraMajeed-Dev">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black">
+  </a>
+</p>
+
 
 ## License
 
