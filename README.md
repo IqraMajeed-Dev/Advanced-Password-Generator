@@ -56,29 +56,14 @@ The project was originally built as a university assignment in about 20–25 min
 - hashlib (optional hashing)  
 - datetime (timestamping)  
 
-## Repository Structure
 
-```
-Password-Generator/
-│
-├── password_generator.py        # main GUI application  
-├── password_history.json        # stored history  
-├── requirements.txt             # external dependencies  
-├── README.md                    # project documentation  
-├── screenshots/  
-│   ├── main_interface.png  
-│   ├── password_generated.png  
-│   └── history_view.png  
-└── examples/  
-    ├── text_version.py          # CLI-only version  
-    └── simple_version.py        # minimal generator  
 ```
 
 ## Screenshots Preview
 
-- Main interface: `screenshots/main_interface.png`  
-- Password generation: `screenshots/password_generated.png`  
-- History view: `screenshots/history_view.png`  
+- Main interface: `<img src="https://github.com/IqraMajeed-Dev/Advanced-Password-Generator/blob/main/screenshots/main.png" alt="After SEO" width="100%" height="250px">`  
+- Software Interface: `<img src="https://github.com/IqraMajeed-Dev/Advanced-Password-Generator/blob/main/screenshots/software.png" alt="After SEO" width="100%" height="250px">`  
+- Password generation: `<img src="https://github.com/IqraMajeed-Dev/Advanced-Password-Generator/blob/main/screenshots/password.png" alt="After SEO" width="100%" height="250px">`  
 
 ## Installation & Usage
 
@@ -159,8 +144,10 @@ def update_strength_indicator(self, password):
 Passionate about Python development and desktop applications.  
 This tool was built quickly as part of a university assignment, yet with full functionality and design awareness.
 
-- GitHub: [IqraMajeed-Dev](https://github.com/IqraMajeed-Dev)  
-- (Add your portfolio or LinkedIn link here)  
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:Iqra37277@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://IqraMajeed-Dev.github.io/portfolio/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/IqraMajeed-Dev)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/IqraMajeed-Dev)  
 
 ## License
 
