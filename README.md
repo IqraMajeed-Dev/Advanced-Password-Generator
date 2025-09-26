@@ -57,17 +57,26 @@ The project was originally built as a university assignment in about 20–25 min
 - datetime (timestamping)
 
   ```
-  ## Screenshots Preview
- <table>
+ 
+<div align="center">
+
+<table>
   <tr>
-    <td align="center"><b>Mian Interface</b></td>
-    <td align="center"><b>Password generation</b></td>
+    <td align="center"><b>Main Interface</b></td>
+    <td align="center"><b>Password Generation</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/IqraMajeed-Dev/Advanced-Password-Generator/blob/main/screenshots/main.png" alt="Before SEO" width="100%" height="250px"></td>
-    <td><img src="https://github.com/IqraMajeed-Dev/Advanced-Password-Generator/blob/main/screenshots/password.png" alt="After SEO" width="100%" height="250px"></td>
+    <td>
+      <img src="https://github.com/IqraMajeed-Dev/Advanced-Password-Generator/blob/main/screenshots/main.png" alt="Main Interface" width="300px">
+    </td>
+    <td>
+      <img src="https://github.com/IqraMajeed-Dev/Advanced-Password-Generator/blob/main/screenshots/password.png" alt="Password Generation" width="300px">
+    </td>
   </tr>
-</table>   
+</table>
+
+</div>
+  
 
 
 ```
