@@ -54,16 +54,24 @@ The project was originally built as a university assignment in about 20–25 min
 - JSON (for persistent storage)  
 - pyperclip (clipboard interaction)  
 - hashlib (optional hashing)  
-- datetime (timestamping)  
+- datetime (timestamping)
+
+  ```
+  ## Screenshots Preview
+ <table>
+  <tr>
+    <td align="center"><b>Mian Interface</b></td>
+    <td align="center"><b>Password generation</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/IqraMajeed-Dev/Advanced-Password-Generator/blob/main/screenshots/main.png" alt="Before SEO" width="100%" height="250px"></td>
+    <td><img src="https://github.com/IqraMajeed-Dev/Advanced-Password-Generator/blob/main/screenshots/password.png" alt="After SEO" width="100%" height="250px"></td>
+  </tr>
+</table>   
 
 
 ```
-
-## Screenshots Preview
-
-- Main interface: `<img src="https://github.com/IqraMajeed-Dev/Advanced-Password-Generator/blob/main/screenshots/main.png" alt="After SEO" width="100%" height="250px">`  
-- Software Interface: `<img src="https://github.com/IqraMajeed-Dev/Advanced-Password-Generator/blob/main/screenshots/software.png" alt="After SEO" width="100%" height="250px">`  
-- Password generation: `<img src="https://github.com/IqraMajeed-Dev/Advanced-Password-Generator/blob/main/screenshots/password.png" alt="After SEO" width="100%" height="250px">`  
+ 
 
 ## Installation & Usage
 
